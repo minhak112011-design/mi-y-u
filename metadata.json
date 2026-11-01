@@ -1,0 +1,6 @@
+{
+  "name": "Gửi Mi Yêu Thương - Món Quà Nhỏ Dành Tặng Em",
+  "description": "Trang web quà tặng tình yêu siêu dễ thương dành riêng cho Mi với mật khẩu bí mật, nhạc yêu thích, album ảnh cute, tâm thư và quà tặng 3D.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
